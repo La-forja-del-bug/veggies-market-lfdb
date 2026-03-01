@@ -95,10 +95,15 @@ FUNCIONES PRINCIPALES
 
                     
 Ver catálogo          Cliente SI       Productor SI      Admin SI
+
 Buscar                Cliente SI       Productor SI      Admin SI
+
 Añadir ofertas        Cliente NO       Productor SI      Admin NO
+
 Crear productos       Cliente NO       Productor NO      Admin SI
+
 Gestionar usuarios    Cliente NO       Productor NO      Admin SI
+
 Gestionar categorías  Cliente NO       Productor NO      Admin SI
 
 
